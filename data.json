@@ -1,0 +1,111 @@
+{
+    "userA": [
+        {
+            "user_id": "532052651660148737",
+            "name": "Kyle Walker",
+            "rating": 85,
+            "price": 30,
+            "agr": 7.2,
+            "TW": 59,
+            "APPS": 86,
+            "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730916116/sm9zrh8v2eaw7pst5kqg.jpg",
+            "cards": [
+                {
+                    "user_id": "532052651660148737",
+                    "name": "Alexander Isak",
+                    "rating": 84,
+                    "price": 30,
+                    "agr": 7.1,
+                    "G/A": 41,
+                    "APPS": 69,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924344/tw7thqflcpglz6achlcr.jpg"
+                },
+                {
+                    "user_id": "532052651660148737",
+                    "name": "Andrew Robertson",
+                    "rating": 84,
+                    "price": 30,
+                    "agr": 7.2,
+                    "TW": 64,
+                    "APPS": 73,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924344/r9ubsiex68fre1esdtkd.jpg"
+                },
+                {
+                    "user_id": "532052651660148737",
+                    "name": "Bruno Guimaraes",
+                    "rating": 85,
+                    "price": 30,
+                    "agr": 7.6,
+                    "TW": 84,
+                    "APPS": 90,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730916116/sm9zrh8v2eaw7pst5kqg.jpg"
+                },
+                {
+                    "user_id": "532052651660148737",
+                    "name": "Cole Palmer",
+                    "rating": 86,
+                    "price": 30,
+                    "agr": 7.7,
+                    "G/A": 44,
+                    "APPS": 73,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924345/lew8fr0ixnaqgounv3jc.jpg"
+                }
+            ]
+        }
+        
+    ],
+    "userB": [
+        {
+            "user_id": "1135106129253388390",
+            "name": "Diogo Jota",
+            "rating": 84,
+            "price": 30,
+            "agr": 7.1,
+            "G/A": 34,
+            "APPS": 60,
+            "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924346/aad1ogyqz5f82i4yybvp.jpg",
+            "cards": [
+                {
+                    "user_id": "1135106129253388390",
+                    "name": "Dominik Szoboszlai",
+                    "rating": 81,
+                    "price": 30,
+                    "agr": 7.4,
+                    "G/A": 34,
+                    "APPS": 91,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924347/umjshpbnrfvxy5bpsulw.jpg"
+                },
+                {
+                    "user_id": "1135106129253388390",
+                    "name": "Ederson Moraes",
+                    "rating": 87,
+                    "price": 30,
+                    "agr": 6.7,
+                    "SV": 149,
+                    "APPS": 91,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924348/c0ofnfvuq4snxyshy2kn.jpg"
+                },
+                {
+                    "user_id": "1135106129253388390",
+                    "name": "Gabriel Martinelli",
+                    "rating": 83,
+                    "price": 30,
+                    "agr": 7.2,
+                    "G/A": 30,
+                    "APPS": 71,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924349/vxsgs4cdk9cximb5cexy.jpg"
+                },
+                {
+                    "user_id": "1135106129253388390",
+                    "name": "James Mcatee",
+                    "rating": 72,
+                    "price": 30,
+                    "agr": 6.6,
+                    "G/A": 9,
+                    "APPS": 33,
+                    "image_url": "http://res.cloudinary.com/dydf5zyxx/image/upload/v1730924350/kut2trfl3hnx5ukwqxcy.jpg"
+                }
+            ]
+        }
+    ]
+}
